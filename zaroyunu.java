@@ -1,10 +1,10 @@
-package zarodevi;
+package zaroyunu;
 
 import java.util.Scanner;
 import java.util.Random;
 import java.io.FileNotFoundException;
 
-public class Zarodevi {
+public class zaroyunu {
 
 	public static void main(String[] args) {
 
